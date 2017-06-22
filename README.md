@@ -6,18 +6,18 @@ to learn pyspark (this is not a real Big Data problem). All of the notebooks are
 ## Steps:
 
 - ### Cleaning tasks. 
-In Preprocesado.ipynb we can see how to clean our data, transform to numeric, etc.
+	In **Preprocesado.ipynb** we can see how to clean our data, transform to numeric, etc.
 
 - ### Exploring.
 
-In Exploracion_y_Visualizacion.ipynb we can find a brief data exploration.
+	In **Exploracion_y_Visualizacion.ipynb** we can find a brief data exploration.
 
 - ### Modeling.
 
 	We have follow three strategies:
 	- #### Use log transform in some variables.
-		We see this first aproach in PrimerosModelos.ipynb.
+		We see this first aproach in **PrimerosModelos.ipynb**.
 	- #### Use log transform in the response variable.
- 		We see this second aproach in Modelos_VarObjTrans.ipynb.
+ 		We see this second aproach in **Modelos_VarObjTrans.ipynb**.
 	- #### Select variables.
-		We use the previous transform, but we select variables, we can find this in Modelos_SelVar.ipynb.
+		We use the previous transform, but we select variables, we can find this in **Modelos_SelVar.ipynb**.
